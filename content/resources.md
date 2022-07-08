@@ -1,5 +1,5 @@
 ---
-title: Exporting to SPSS and additional support resources 
+title: Exporting to SPSS 
 nav_order: 10
 youtubeid: C0omLC2Pq44
 topics: SPSS; export; 

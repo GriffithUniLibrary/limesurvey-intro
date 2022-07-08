@@ -1,5 +1,5 @@
 ---
-title: Creating and sending invitations
+title: Creating invitations
 nav_order: 9
 youtubeid: G45Ou4w_QZQ
 topics: Participant tables; closed access mode; tokens; invitations; templates

@@ -1,5 +1,5 @@
 ---
-title: Limiting participation with quotas
+title: Setting quotas
 nav_order: 7
 youtubeid: zjDf6a0_3es
 topics: Quotas; responsible research; reordering

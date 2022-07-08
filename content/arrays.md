@@ -1,5 +1,5 @@
 ---
-title: "Advanced question types: Arrays"
+title: Array questions
 nav_order: 6
 youtubeid: 4159dazqze8
 topics: Copying; logic; subquestions

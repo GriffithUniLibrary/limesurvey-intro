@@ -1,5 +1,5 @@
 ---
-title: Publishing your survey
+title: Distribution
 nav_order: 8
 topics: Production mode; activation; distribution
 description: Now it's time to publish your survey! First, we're going to look at how to reorder your questions, in case you added new ones or reconsidered the order while you were creating your survey. 

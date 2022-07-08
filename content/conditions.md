@@ -1,5 +1,5 @@
 ---
-title: Setting conditions (branching logic)
+title: Branching logic
 nav_order: 5
 youtubeid: k96BLwyJpbY
 topics: Copying; logic; answer options

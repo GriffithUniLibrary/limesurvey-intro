@@ -1,5 +1,5 @@
 ---
-title: Creating Groups and Basic Questions
+title: Basic Questions
 nav_order: 4
 youtubeid: A2eSz9Wph64
 topics: Question groups; question settings
