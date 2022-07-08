@@ -11,25 +11,25 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: Long Lesson Template
+title: LimeSurvey@Griffith
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/ (or look in "_includes/bootstrap-icons")
 # some options: code-slash file-code gear tools lightblub book bookmark-star
 title-icon: book
 # description appears in sidebar footer
-description: "A template for longer lessons with more than 5 sections"
+description: "Resources and activities for the Griffith RED workshop on LimeSurvey"
 # keywords for meta tags used by search engines
-keywords: "workshops, websites, gh-pages, jekyll"
+keywords: "limesurvey, survey, research, griffith"
 # image for meta tags, will appear when sharing link on social media
-featured-image: "/images/university-drive.jpg"
+featured-image: "/images/limesurvey-logo-card.png"
 
 # author name, displayed in credits
 author: Griffith University Library
 # year or date published, displayed in sidebar
 publication_year: 2022
 # location of code, the full url to your github repository
-source-code: https://github.com/learn-static/lesson-template
+source-code: https://github.com/GriffithUniLibrary/limesurvey-v5
 # content license (typically "cc by-sa"), displayed in sidebar
 content_license: "CC BY-SA"
 # URL to the content license

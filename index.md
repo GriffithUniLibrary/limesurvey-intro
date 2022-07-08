@@ -1,5 +1,5 @@
 ---
-title: Griffith Library Workshop Template
+title: LimeSurvey@Griffith
 layout: lesson-content
 ---
 
