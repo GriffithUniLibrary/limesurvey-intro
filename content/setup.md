@@ -1,7 +1,6 @@
 ---
 title: Setting up your survey
 nav_order: 3
-
 youtubeid: JBOgr2e6ggU
 topics: Access; texts and settings; properties
 description: First you'll have to create a new survey in the Research Survey Centre, then choose its basic settings.
@@ -21,7 +20,7 @@ Find instructions for setting up [your Griffith VPN](https://intranet.secure.gri
 
 ## Creating a survey
 
-If you're just making a survey for yourself, 
+
 
 {% capture text %}
 1.	Open a browser and go to the `Research Survey Centre` web page.
@@ -32,6 +31,9 @@ NOTE:  If you are working off-campus, you will need to connect via the VPN clien
 5.	Click on the `Sandpit survey` radio button.
 6.	Fill in the details for the survey, noting that some fields are mandatory.  For this exercise, enter the title **Healthy Lifestyles**.
 7.	Click the `Submit` button.{% endcapture %}
+
+{% include figure.html img="uidaho-workshop.jpg" alt="workshop scene" caption="Library workshops!" width="75%" %}
+
 {% include card.html header="Registering a survey" text=text %}
 
 ## Accessing the survey
