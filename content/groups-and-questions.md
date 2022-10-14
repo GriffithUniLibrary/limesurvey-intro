@@ -24,7 +24,7 @@ When answering, please think about a typical week when you would be at school, u
 | 4.	Click the `Save and close button`.{% endcapture %} | Some discussion |
 {:.table}
 
-{% include accordion.html title1="Activity 1: Create a group" text1=activitygroup open=false %}
+{% include accordion.html title1="Activity: Create a group" text1=activitygroup open=false %}
 
 ## Navigation panel
 
