@@ -8,21 +8,19 @@ description: Set up a simple question group and start adding questions.
 
 ## Create a question group
 
-Each survey must have at least one `Question group`, but it is useful to categorise each set of questions into different `Question groups` so that respondents understand the focus of any set of questions (refer to the survey design).
+Each survey must have at least one `Question group` and a question can only exist inside a `Question group`.
 
+You can categorise sets of questions into different `Question groups` so that respondents understand the focus of the questions they are being asked. For example, you can create separate groups for Demographics and for your main survey. 
 
-
- 
 {% capture activitygroup %}
 
 | Action | Discussion |
 | -----| ----- |
-| Create a group | 1. Click on the large `Add Group` button on the screen. |
-| Add a title  | 2. In the `Title:` text box, type **Activity and Movement**. |
-| Add a description | 3. In the `Description:` text box, type (or copy and `Paste as Plain Text`): **You are about to be asked about your day to day activity levels. This section is broken down into two main types of activities: vigorous-intensity sports and moderate-intensity sports.
-When answering, please think about a typical week when you would be at school, university or at work. If you do not work and are not in education, please think about the activities you do during the equivalent hours of the day.** |
-| 4.	Click the `Save and close button`.{% endcapture %} | Some discussion |
+| 1. Create a group | - Click on the large `Add Group` button on the screen. <br /> - In the `Title:` text box, type **Activity and Movement**. <br /> - In the `Description:` text box, type (or copy and `Paste as Plain Text`): **You are about to be asked about your day to day activity levels. This section is broken down into two main types of activities: vigorous-intensity sports and moderate-intensity sports. When answering, please think about a typical week when you would be at school, university or at work. If you do not work and are not in education, please think about the activities you do during the equivalent hours of the day.** |
+| 2. Save the group | - Click the `Save and close button`. |
 {:.table}
+
+{% endcapture %}
 
 {% include accordion.html title1="Activity: Create a group" text1=activitygroup open=false %}
 
