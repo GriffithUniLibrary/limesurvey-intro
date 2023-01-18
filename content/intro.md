@@ -7,11 +7,6 @@ title: Introduction
 
 Place the topic of your workshop here, for example: LimeSurvey, Digital Dexterity, Copyright for researchers, etc.
 
-{% capture compicon %}
-{% include icon.html icon='laptop' %}
-{% endcapture %}
-{% compicon %} Here is your line of text
-
 ## Audience
 
 This workshop is aimed at researchers and academics in the field of biostatistics.
