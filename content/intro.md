@@ -11,13 +11,23 @@ Place the topic of your workshop here, for example: LimeSurvey, Digital Dexterit
 
 This resource is aimed at researchers and academics who need to conduct online surveys using LimeSurvey as part of their research. It is based on LimeSurvey version 5.0 but most features are found in previous versions as well.
 
-## Learning outcomes
+## Outcomes
 
 | Once you have completed this workshop you should be able to: |
 | -----|
-| Explain the difference between copyright and academic integrity  |
-| Identify the most common sources of GLAM archival text  |
-| Verb a noun with the following limiting words  |
+| Access the Griffith instance of LimeSurvey |
+| Express the University's ethical expectations when conducting survey research |
+| Create new surveys |
+| Create and format basic questions |
+| Create array and multiple choice questions |
+| Assign quotas to questions |
+| Assign conditional logic to questions |
+| Create a participant table |
+| Send automated email invitations to complete a survey |
+| Publish a survey |
+| Understand the difference between deactivating and expiring a survey |
+| Run basic reports |
+| Export survey data in Excel and SPSS format |
 {:.table}
 
 ## Prerequisites
@@ -25,7 +35,7 @@ This resource is aimed at researchers and academics who need to conduct online s
 | You will need the following software to successfully complete this workshop: |
 | -----|
 | A modern browser  |
-| An installation of [OpenRefine](https://openrefine.org)  |
+| An idea of a survey that you would like to run  |
 {:.table}
 
 | It is assumed that you have the following level of understanding: |
