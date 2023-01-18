@@ -28,8 +28,6 @@ This resource is aimed at researchers and academics who need to conduct online s
 | An installation of [OpenRefine](https://openrefine.org)  |
 {:.table}
 
-{% capture assumedknowledge %}
-
 | It is assumed that you have the following level of understanding: |
 | -----|
 | Ability to install software on your own device |
