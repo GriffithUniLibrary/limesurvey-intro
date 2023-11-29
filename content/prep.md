@@ -37,7 +37,7 @@ description: Things you'll need to be aware of before setting up your survey.
 
 You can look at your survey as having a life cycle, from conception, through gestation, birth, life and death. It's important to give appropriate attention to each phase of its life. See this presentation by Assoc. Prof. Sama Low Choy to the Research Bazaar (ResBaz) conference in 2021:
 
-<iframe src="../content/LowChoy-lifecycle.pdf" width="100%" height="500px">
+<iframe src="../content/LowChoyResBaz2021.pdf" width="100%" height="500px">
 
 {% capture text %}**Ready to move on?** Head to the [next page](1-setup.html) or [ask a question](https://griffithu.padlet.org/y_banens1/gli5hpobgpzwcuym){:target="_blank"}. {% endcapture %}
 {% include alert.html text=text color="success" %}
